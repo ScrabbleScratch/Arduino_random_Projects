@@ -1,2 +1,4 @@
-# ideal-octo-carnival
-Cool stuff about a trip to code cool stuff
+# Arduino_random_projects
+
+Arduino based simple projects developed by me.
+Almost every project is in a student level.
